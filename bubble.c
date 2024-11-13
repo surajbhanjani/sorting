@@ -28,7 +28,7 @@ void printArray(int arr[], int n)
 
 int main()
 {
-    int arr[] = {10,24,5,37,88,34,6,21,28,98,76,56,45};
+    int arr[] = {10,24,5,37,88,34,6,21,28,98,87,52,45};
     int n = sizeof(arr) / sizeof(arr[0]);
 
     printf("Unsorted array: ");
